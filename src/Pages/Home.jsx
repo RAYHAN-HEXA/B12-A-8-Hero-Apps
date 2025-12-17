@@ -13,7 +13,7 @@ const Home = () => {
       <section className="w-full flex flex-col items-center text-center bg-[#f5f5f5] ">
         {/* Top Content */}
         <div className="max-w-4xl mt-12">
-          <h1 className="text-3xl md:text-5xl font-bold text-gray-900">
+          <h1 className="text-4xl md:text-5xl font-semibold text-gray-900">
             We Build <br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#632EE3] to-[#9F62F2]">
               Productive
