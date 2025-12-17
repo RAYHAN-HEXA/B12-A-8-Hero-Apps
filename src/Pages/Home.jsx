@@ -24,7 +24,7 @@ const Home = () => {
             At <span className="font-semibold">Hero Store</span> we create
             powerful and innovative apps that make everyday life simpler,
             smarter, and more inspiring. Our mission is to transform your ideas
-            into digital experiences that truly make an impact.
+            into digital experiences that truly make an impact. Join millions of users who trust our apps for productivity and creativity.
           </p>
 
           {/* Store Buttons */}
