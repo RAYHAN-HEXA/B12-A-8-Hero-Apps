@@ -28,7 +28,7 @@ const AppDetails = () => {
   // ✅ Loading state handling
   if (loading) {
     return (
-      <div className="flex justify-center items-center min-h-screen text-5xl">
+      <div className="flex justify-center items-center min-h-screen text-6xl">
         Loading...
         <ImageLoader
           className="loading loading-spinner w-20" 
