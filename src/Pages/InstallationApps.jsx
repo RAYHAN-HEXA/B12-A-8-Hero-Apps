@@ -47,7 +47,7 @@ const InstallationApps = ({ app, handleUninstallApp }) => {
         {/* Right Button */}
         <button
           onClick={() => handleUninstallApp(app.id)}
-          className="mt-3 sm:mt-0 btn btn-secondary"
+          className="mt-3 sm:mt-0 btn btn-primary"
         >
           Uninstall
         </button>
